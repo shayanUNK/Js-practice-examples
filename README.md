@@ -1,10 +1,6 @@
 # Js-practice-examples
 
-    <img
-      style="width: 700px"
-      src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxAp7sTjC28jNtXbsQy2tAEuAGPOrQ2493hGcuuQQKejCPGz7XghyGeDopaxiXjBX9E0Y&usqp=CAU"
-      alt=""
-    />
+![](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxAp7sTjC28jNtXbsQy2tAEuAGPOrQ2493hGcuuQQKejCPGz7XghyGeDopaxiXjBX9E0Y&usqp=CAU)
 
 ## What is this repository?
 
