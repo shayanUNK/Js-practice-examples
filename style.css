@@ -13,10 +13,11 @@ h1 {
 }
 /* overall container styles */
 #container {
-  padding-top: 5%;
+  padding-top: 2%;
   width: 100%;
   display: flex;
   justify-content: center;
+  align-items: center;
 }
 /* main container */
 #main {
@@ -75,6 +76,7 @@ h1 {
 }
 /* welcome text styles */
 #welcome {
+  margin: 20px;
 }
 /* background */
 
