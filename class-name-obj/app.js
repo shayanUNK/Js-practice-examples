@@ -39,7 +39,7 @@ let school = {
       score: "19",
     },
     student3: {
-      fName: "Abolfazl",
+      fName: "Parham",
       lName: "Badian",
       phoneNumber: "0648796326",
       address: "iran,Bushehr,Bushehr",
@@ -47,5 +47,12 @@ let school = {
     },
   },
 };
-//
 // console.log(school);
+console.log("____________ student class A ____________");
+console.log("Shayan :>> ", school.classA.student1);
+console.log("Amir :>> ", school.classA.student2);
+console.log("Reza :>> ", school.classA.student3);
+console.log("____________ student class B  ____________");
+console.log("Ali :>> ", school.classB.student1);
+console.log("Saeed :>> ", school.classB.student2);
+console.log("Parham :>> ", school.classB.student3);
