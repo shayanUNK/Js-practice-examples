@@ -29,6 +29,7 @@ h1 {
   backdrop-filter: blur(7px);
   background: rgba(42, 42, 42, 0.2);
   border-radius: 5px;
+  padding: 20px;
 }
 /* project card container styles */
 #project-card {
