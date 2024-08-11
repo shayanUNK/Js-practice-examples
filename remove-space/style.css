@@ -1,0 +1,7 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+.image > img {
+  width: 100%;
+}
