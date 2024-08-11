@@ -5,6 +5,8 @@ let output;
 
 getWordBtn.addEventListener("click", (e) => {
   output = getWordUser.value.slice(-1);
-
   show.innerHTML = `the last word is: "${output}"`;
+  if (getWordUser.value == "") {
+    show.innerHTML = "String has zero length";
+  }
 });
