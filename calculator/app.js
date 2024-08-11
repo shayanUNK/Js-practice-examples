@@ -12,6 +12,8 @@ let plus = document.querySelector("#plus");
 let minus = document.querySelector("#minus");
 let times = document.querySelector("#times");
 let divide = document.querySelector("#divide");
+
+
 button.addEventListener("click", (e) => {
   num1 = Number(getNum1.value);
   num2 = Number(getNum2.value);
