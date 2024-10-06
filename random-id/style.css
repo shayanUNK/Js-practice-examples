@@ -1,0 +1,39 @@
+body {
+  width: 100%;
+  margin: 0;
+  padding: 0;
+  background-color: pink;
+  font-family: arial;
+}
+section {
+  width: 100%;
+  height: 600px;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+section > div {
+  width: 200px;
+  height: 100px;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+  /* background-color: gray; */
+}
+section > div > h1 {
+  font-size: 30px;
+}
+#create-id {
+  padding: 20px 35px;
+  border-radius: 5px;
+  background-color: greenyellow;
+  border: 0.5px;
+}
+#create-id:hover {
+  background-color: rgb(131, 195, 35);
+}
